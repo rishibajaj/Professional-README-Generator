@@ -28,7 +28,7 @@
 
   Answer the questions and your answers will be written to the README file.
 
-  ![Screenshot of Rishi Bajaj Professional README Generator](./Screenshot_README_Generator.jpeg)
+  ![Screenshot of Rishi Bajaj Professional README Generator](./Screenshot_README_Generator.png)
 
 ## License
 
